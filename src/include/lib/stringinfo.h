@@ -16,6 +16,7 @@
  */
 #ifndef STRINGINFO_H
 #define STRINGINFO_H
+#define pg_restrict
 
 /*-------------------------
  * StringInfoData holds information about an extensible string.
